@@ -1,0 +1,1075 @@
+ Examination Priorities
+Fiscal Year 2025
+Division of Examinations
+
+DISCLAIMER: This statement represents the views of the staff of the Division of Examinations. It is not a 
+rule, regulation, or statement of the U.S. Securities and Exchange Commission (SEC or Commission). The 
+Commission has neither approved nor disapproved its content. This statement, like all staff statements, has no 
+legal force or effect: it does not alter or amend applicable law, and it creates no new or additional obligations 
+for any person.
+
+E X A M I N AT I O N  P R I O R I T I E S :  F I S C A L  Y E A R  2 0 2 5   |   iii
+CONTENTS
+MESSAGE FROM THE LEADERSHIP TEAM .  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1
+FISCAL YEAR 2025 EXAMINATION PRIORITIES.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   5
+I.	
+INVESTMENT ADVISERS .  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   5
+A.	 Adherence to Fiduciary Standards of Conduct.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5
+B.	
+Effectiveness of Advisers’ Compliance Programs.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   6
+C.	
+Examinations of Advisers to Private Funds .  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7
+D.	
+Never Examined Advisers, Recently Registered Advisers, 
+and Advisers Not Recently Examined.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7
+II.	
+INVESTMENT COMPANIES .  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7
+III.	 BROKER-DEALERS.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   8
+A.	 Regulation Best Interest.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   8
+B.	
+Form CRS .  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   8
+C.	
+Broker-Dealer Financial Responsibility Rules.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   8
+D.	
+Broker-Dealer Trading-Related Practices and Services.  .   .   .   .   .   .   .   .   .   .   .   .   9
+IV.	 SELF-REGULATORY ORGANIZATIONS.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   9
+A.	 National Securities Exchanges.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   9
+B.	
+FINRA.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 9
+C.	
+Municipal Securities Rulemaking Board.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  10
+V.	
+CLEARING AGENCIES.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  10
+VI.	 OTHER MARKET PARTICIPANTS.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   11
+A.	 Municipal Advisors.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   11
+B.	
+Transfer Agents.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   11
+C.	
+Security-Based Swap Dealers .  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 11
+D.	
+Security-Based Swap Execution Facilities.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 11
+E.	
+Funding Portals.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   11
+VII.	 RISK AREAS IMPACTING VARIOUS MARKET PARTICIPANTS .  .   .   .   .   .   .   .   .   .   12
+A.	 Information Security and Operational Resiliency .  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  12
+1.	
+Cybersecurity.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  12
+2.	
+Regulation S-ID and Regulation S-P.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   12
+3.	
+Shortening of the Settlement Cycle.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  13
+B.	
+Emerging Financial Technologies.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   13
+C.	
+Crypto Assets.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  14
+D.	
+Regulation Systems Compliance and Integrity.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  14
+E. 	 Anti-Money Laundering.  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  15
+
+iv  |   D I V I S I O N  O F  E X A M I N AT I O N S
+
+E X A M I N AT I O N  P R I O R I T I E S :  F I S C A L  Y E A R  2 0 2 5   |   1
+MESSAGE FROM THE 
+LEADERSHIP TEAM
+Three Decades Strong: An Adaptive, Transparent, and 
+Risk-Focused Examination Program 
+March 2025 marks 30 years since the creation of the Division of Examinations (Division or EXAMS).1 Since 
+that time, the securities markets have undergone significant transformations, evolving from brokers using fax 
+machines and open outcry floor trading, to an online, globally interconnected high-speed marketplace. To 
+keep pace, we have embraced adaptable structures and agile processes that evolve alongside industry to help 
+ensure robust investor protection and strong compliance.
+Over the last three decades, technology has globally shifted the securities industry and how most people 
+invest. In the early years of the examination program, the internet was just becoming mainstream. Today, 
+some registered firms are developing generative artificial intelligence based applications and employing 
+complex algorithms to inform investment strategies. Securities trades clear faster and many people can invest 
+in our capital markets using just a smartphone. 
+As technology continues to transform investing, we must work to identify new and emerging risks. The 
+Division must constantly scan the horizon for these risks and stand ready to examine registered firms for 
+compliance with SEC rules tied to these risks, and not merely react to these threats. To ensure investors remain 
+protected, we continue to invest in training and work hard to keep our staff abreast of changes in the industry. 
+We also continue to assess how these changes might impact registered firms’ operations and regulatory 
+compliance, and at the same time, remain nimble to retool our approaches in conducting examinations. 
+ADAPTING OUR OVERSIGHT RESPONSIBILITIES AS THE INDUSTRY 
+LANDSCAPE CHANGES 
+We regularly reassess our tools, methods, and approaches to keep pace with the growing breadth and 
+complexity of the Division’s examination responsibilities. We remain committed to continually assess 
+ways we can further improve and fulfill our important responsibilities in overseeing a growing portfolio of 
+registered firms. 
+
+2  |   D I V I S I O N  O F  E X A M I N AT I O N S
+The number and breadth of our staff and specialized examination programs have increased significantly since 
+1995. In those early years, we had approximately 500 staff across three programs. Today, we have more than 
+1,100 staff across five programs with specialized functions and capabilities responsible for the Congressionally 
+mandated increase in examination authority for many new types of registered firms. The SEC has also 
+promulgated various rules creating additional obligations for registered firms. As these rules are adopted, the 
+Division works closely with our partners across the SEC to develop a comprehensive examination agenda and 
+direct the necessary resources to ensure consistent, timely, and effective examinations. 
+We also strive to continually build and refine the Division’s knowledge management capabilities to better 
+position ourselves to tackle new and expanding examination responsibilities. In the past two years, the 
+Division has added specialized capabilities in the cybersecurity, security-based swaps, crypto asset, and 
+intelligence space. We have also dedicated additional resources to focus on other critical areas, including 
+national securities exchanges, private funds, and clearing agencies. In addition, we have enhanced our 
+organizational structure to respond to developments in the markets and demographic changes that resulted 
+from the global pandemic. We have likewise changed our approach to onsite examinations based on lessons 
+we learned operating in a remote and hybrid environment. 
+FOSTERING COMPLIANCE WITH PROACTIVE COMMUNICATION 
+AND TRANSPARENCY 
+We play a significant role in promoting compliance by engaging in extensive communication and outreach 
+initiatives with the industry and other regulators throughout the year. Since 2013, we have published our 
+annual examination priorities to inform investors and the industry about key areas where we intend to focus 
+our resources­—those areas the Division believes present the highest risk areas to investors and the markets. 
+Last year marked the first time we published the priorities with the start of the SEC’s fiscal year. Our goal 
+remains the same. We strive to provide more transparency and as early as reasonably possible to allow 
+registered firms more opportunities to evaluate their compliance efforts. 
+We also publish risk alerts throughout the year to provide additional transparency about our examination 
+program and to promote compliance. We published our first risk alert in 2011, which identified potential 
+risks that could harm investors and identified opportunities for broker-dealers to strengthen their internal 
+controls and compliance procedures to protect investors. Recently, in response to industry request, we 
+published risk alerts covering a wider range of topics that describe typical broker-dealer and registered 
+investment adviser examinations; even attaching sample document requests. We also published, earlier this 
+year, a risk alert on registered firms’ preparedness for the rule shortening the securities transaction settlement 
+cycle as part of the Division’s efforts to continue engaging with firms by providing additional information 
+about our examinations and outreach in assessing their preparedness. 
+
+E X A M I N AT I O N  P R I O R I T I E S :  F I S C A L  Y E A R  2 0 2 5   |   3
+We also proactively engage with investors and the securities industry through outreach events, including 
+national and regional compliance seminars, and speaking engagements. We launched our formal outreach 
+program in 2005, following the implementation of the “Compliance Rule” for registered investment advisers 
+and registered investment companies. The Division’s goal was to promote open communications with chief 
+compliance officers as they worked to establish new compliance programs or improve existing compliance 
+programs within their organizations. This November, the Division will host its 12th Compliance Outreach 
+Program National Seminar for Investment Adviser and Investment Company Senior Officers. 
+Today, our outreach efforts reach a wider audience, including investors and different types of registrants, 
+and include a broad range of topics. Moving forward, we will continue our engagement with the industry to 
+discuss compliance issues with the hope that participants may learn about effective compliance practices. In 
+fiscal year 2025, for example, we anticipate conducting targeted outreach to the securities industry, focusing 
+on implementation of the requirements contained in the SEC’s updates to Regulation S-P. 
+DIRECTING RESOURCES TO CRITICAL RISK AREAS 
+We have spent considerable time and effort since 1995 enhancing and fine tuning our risk assessment and 
+surveillance capabilities to better ensure that the registered firms we believe pose the greatest risk to investors 
+and markets are identified for examination. Leveraging data and information to identify firms and practices 
+that present elevated risk to investors or the markets has been a key foundation of the Division’s risk-based 
+examination-planning and candidate-selection processes. We utilize, for example, a centralized team within 
+EXAMS that includes skilled quantitative analysts and financial engineers to perform more sophisticated 
+data analytics to identify potential examination candidates and practices, as well as serve as another valuable 
+resource to Division staff in analyzing large amounts of complex trade and financial data.
+As part of our drive to conduct more efficient and effective examinations, we continue to make 
+organizational changes and reallocate our limited resources. Last year, for example, the Division made 
+structural enhancements to our broker-dealer and exchange program. We built out a group to focus on 
+national securities exchanges, added a national risk strategist to assess and examine planning considerations, 
+and added a new associate director to strengthen the program’s home office. Finally, EXAMS is deeply 
+engaged in a national effort to reevaluate the methodology we use to calculate annual examination number 
+projections. Going forward, we are committed to further tying our annual targets to our risk-based 
+examination approach and available staff resources. 
+
+4  |   D I V I S I O N  O F  E X A M I N AT I O N S
+Since 1995, we have built an adaptive, transparent, and risk-focused examination program. To promote 
+compliance with securities laws and better protect investors, we diligently monitor risks, and as is 
+ever-necessary, adapt our approaches to transparently provide information based on our observations and 
+growing industry experience. With these crucial objectives in mind, we are pleased to present the Division’s 
+examination priorities for fiscal year 2025. 
+Allison M. Fakhoury
+National Clearance and 
+Settlement Program 
+Director
+Keith E. Cassidy
+Acting Director 
+Kevin W. Goodman
+National FINRA and 
+Securities Industry 
+Oversight Program Director
+Vanessa L. Horton
+National Investment 
+Adviser/Investment 
+Company Program Director
+Alexis L. Hall
+National Technology 
+Controls Program 
+Acting Director
+Marshall M. Gandy
+National Investment 
+Adviser/Investment 
+Company Program Director
+Michael G. Rufino
+National Broker-Dealer and 
+Exchange Program Director
+DIVISION OF EXAMINATIONS LEADERSHIP 
+
+E X A M I N AT I O N  P R I O R I T I E S :  F I S C A L  Y E A R  2 0 2 5   |   5
+T
+he Division’s examination priorities 
+are developed in consultation with 
+other divisions and offices throughout 
+the SEC and are informed by prior 
+years’ examinations, market events, information 
+gathered through participation in conferences and 
+conversations with investors, registrants, industry 
+groups, and other regulators. They reflect practices, 
+products, and services that the Division believes 
+present potentially heightened risks to investors or 
+the integrity of the U.S. capital markets. They are 
+not a comprehensive compilation of the issues the 
+Division will address in examinations. The Division 
+will cover other areas and conduct examinations 
+focused on and devote resources to new or 
+emerging risks, products and services, market 
+events, and investor concerns. 
+The Division welcomes comments and suggestions 
+regarding how it can better fulfill its mission to 
+promote compliance, prevent fraud, identify and 
+monitor risk, and inform SEC policy. Contact 
+information is available at https://www.sec.gov/
+exams. If you suspect or observe activity that may 
+violate the federal securities laws or otherwise 
+operates to harm investors, please notify the SEC at 
+https://www.sec.gov/tcr. 
+I.  INVESTMENT ADVISERS 
+A.	Adherence to Fiduciary 
+Standards of Conduct
+As a fiduciary, an investment adviser (adviser) owes 
+a duty of care and a duty of loyalty to its clients. 
+An adviser must, at all times, serve the best interest 
+of its clients and must not place its own interests 
+ahead of the interests of its clients. In addition, 
+an adviser must eliminate or make full and fair 
+disclosure of all conflicts of interest which may 
+lead the adviser—consciously or unconsciously—to 
+render advice that is not disinterested such that a 
+client can provide informed consent to the conflict. 
+Examining for advisers’ adherence to their duty 
+of care and duty of loyalty obligations remains a 
+priority, and the Division will continue to focus on: 
+§ Investment advice provided to clients regarding 
+products, investment strategies, and account 
+types, and whether that advice satisfies the 
+fiduciary obligations owed to their clients. 
+In particular, the Division will focus on 
+recommendations related to: (1) high-cost 
+products; (2) unconventional instruments; 
+(3) illiquid and difficult-to-value assets; and 
+(4) assets sensitive to higher interest rates 
+or changing market conditions, including 
+commercial real estate. 
+§ Dual registrants and advisers with affiliated 
+broker-dealers. Common areas of focus 
+include: (1) assessing investment advice and 
+recommendations regarding certain products to 
+determine whether they are suitable for clients’ 
+advisory accounts; (2) reviewing disclosures 
+to clients regarding the capacity in which 
+recommendations are made; (3) reviewing the 
+appropriateness of account selection practices 
+(e.g., brokerage versus advisory), including 
+rollovers from an existing brokerage account to 
+FISCAL YEAR 2025 
+EXAMINATION PRIORITIES
+
+6  |   D I V I S I O N  O F  E X A M I N AT I O N S
+an advisory account; and (4) assessing whether 
+and how advisers adequately mitigate and fairly 
+disclose conflicts of interest.
+§ The impact of advisers’ financial conflicts of 
+interest on providing impartial advice and 
+best execution, with consideration given for 
+non-standard fee arrangements. 
+B.	Effectiveness of Advisers’ 
+Compliance Programs
+Rule 206(4)-7 under the Investment Advisers 
+Act of 1940 (Advisers Act), often referred to as 
+the “Compliance Rule,” requires SEC-registered 
+investment advisers to: (1) adopt and implement 
+written policies and procedures that are reasonably 
+designed to prevent violations of the Advisers Act 
+and the rules adopted under the Advisers Act by 
+the adviser and its supervised persons; (2) designate 
+an individual as Chief Compliance Officer to be 
+responsible for administering the policies and 
+procedures; and (3) review compliance policies and 
+procedures at least annually for their adequacy and 
+the effectiveness of their implementation. 
+The Division’s assessment of the effectiveness 
+of advisers’ compliance programs is a 
+fundamental part of the examination process. 
+Examinations focusing on this topic typically 
+include an evaluation of the core areas of 
+advisers’ compliance programs which include, as 
+applicable and appropriate for each examination, 
+marketing, valuation, trading, portfolio 
+management, disclosure and filings, and custody. 
+In addition, examinations on this topic typically 
+include an analysis of advisers’ annual reviews of 
+the effectiveness of their compliance programs, 
+which are a critical element for addressing and 
+monitoring conflicts of interests, including those 
+conflicts stemming from the advisers’ business 
+and compensation arrangements, arbitration 
+clauses, and/or affiliations with certain parties 
+and transactions. 
+In reviewing advisers’ compliance policies and 
+procedures, the Division continues to focus on 
+whether the policies and procedures address 
+compliance with the Advisers Act and the rules 
+thereunder and are reasonably designed to prevent 
+the advisers from placing their interests ahead of 
+clients’ interests. Areas on which examinations 
+may focus include: (1) fiduciary obligations of 
+advisers that outsource investment selection and 
+management; (2) alternative sources of revenue 
+or benefits advisers receive, such as selling 
+non-securities based products to clients; and 
+(3) appropriateness and accuracy of fee calculations 
+and the disclosure of fee-related conflicts, such 
+as those associated with select clients negotiating 
+lower fees when similar services are provided to 
+other clients at a higher fee rate.
+The Division’s review of an adviser’s compliance 
+program may focus on or go into greater depth 
+depending on its practices or products. For 
+example, if clients invest in illiquid or difficult-
+to-value assets, such as commercial real estate, 
+examinations may have a heightened focus on 
+valuation. If advisers integrate artificial intelligence 
+(AI) into advisory operations, including portfolio 
+management, trading, marketing, and compliance, 
+an examination may look in-depth at compliance 
+policies and procedures as well as disclosures 
+to investors related to these areas. If an adviser 
+utilizes a large number of independent contractors 
+working from geographically dispersed locations, 
+examinations may focus on supervision and 
+oversight practices. Examinations may also focus 
+on compliance practices when advisers change their 
+business models or are new to advising particular 
+types of assets, clients, or services.
+
+E X A M I N AT I O N  P R I O R I T I E S :  F I S C A L  Y E A R  2 0 2 5   |   7
+C.	Examinations of Advisers 
+to Private Funds 
+Advisers to private funds remain a significant 
+portion of the SEC-registered investment adviser 
+population. The Division will continue to focus 
+on advisers to private funds and prioritize specific 
+topics, such as reviewing:
+§ Whether disclosures are consistent with actual 
+practices and if an adviser met its fiduciary 
+obligations in times of market volatility and 
+whether a private fund is exposed to interest 
+rate fluctuations. Examples of investment 
+strategies that may be sensitive to market 
+volatility and/or interest rate changes include 
+commercial real estate, illiquid assets, and 
+private credit. The Division may particularly 
+focus on examinations of advisers to private 
+funds that are experiencing poor performance 
+and significant withdrawals and/or hold more 
+leverage or difficult-to-value assets.
+§ The accuracy of calculations and allocations of 
+private fund fees and expenses (both fund-level 
+and investment-level). Examples of areas that 
+may impact the accuracy of fee calculations 
+include valuation of illiquid assets, calculation 
+of post commitment period management fees, 
+offsetting of such fees and expenses, and the 
+adequacy of disclosures.
+§ Disclosure of conflicts of interests and risks, 
+and adequacy of policies and procedures. 
+Examples of products or practices for the focus 
+of such conflicts, controls, and risks reviews 
+include: (1) use of debt, fund-level lines of credit, 
+investment allocations, adviser-led secondary 
+transactions, transactions between fund(s) and/
+or others; (2) investments held by multiple 
+funds; and (3) use of affiliated service providers.
+§ Compliance with recently adopted SEC rules, 
+including amendments to Form PF,2 and the 
+updated rules that govern investment adviser 
+marketing,3 to assess whether advisers have 
+established adequate policies and procedures 
+and whether their actual practices conform 
+to them.
+D.	Never Examined Advisers, Recently 
+Registered Advisers, and Advisers 
+Not Recently Examined
+As with previous years, the Division will prioritize 
+examinations of advisers that have never been 
+examined and those that have not been recently 
+examined with a continued focus on newly 
+registered advisers. 
+II.  INVESTMENT COMPANIES 
+The Division continues to prioritize examinations 
+of registered investment companies (RICs or funds), 
+including mutual funds and exchange-traded 
+funds, due to their importance to retail investors, 
+particularly those saving for retirement.
+Examinations of RICs will generally review their 
+compliance programs, disclosures, and governance 
+practices. Particular examination focus areas may 
+include review of specific topics or characteristics 
+involving: (1) fund fees and expenses, and any 
+associated waivers and reimbursements; (2) 
+oversight of service providers (both affiliated and 
+third-party); (3) portfolio management practices 
+and disclosures, for consistency with claims about 
+investment strategies or approaches and with fund 
+filings and marketing materials; and (4) issues 
+associated with market volatility. The Division 
+will also continue to monitor certain developing 
+areas of interest, such as RICs with exposure to 
+commercial real estate and compliance with new 
+and amended rules. 
+
+8  |   D I V I S I O N  O F  E X A M I N AT I O N S
+As with adviser examinations, the Division will 
+continue to examine funds that have never before 
+been examined and those that have not been 
+recently examined with particular focus on newly 
+registered funds. 
+III.  BROKER-DEALERS
+A.	Regulation Best Interest
+The Division will continue to examine broker-
+dealer practices related to Regulation Best Interest, 
+including the following areas: (1) recommendations 
+with regard to products, investment strategies, 
+and account types and whether the broker has a 
+reasonable basis to believe the recommendation 
+is in the best interest of the customer and does 
+not place the broker’s interests ahead of the 
+customer’s interests; (2) disclosures made to 
+investors regarding conflicts of interest; (3) conflict 
+identification and mitigation and elimination 
+practices; (4) processes for reviewing reasonably 
+available alternatives; and (5) factors considered 
+in light of the investor’s investment profile such as 
+investment goals and account characteristics.
+In particular, examinations of broker-dealer 
+practices will focus on those recommended 
+products that are complex, illiquid, or present 
+higher risk to investors. Examples of such products 
+may include highly leveraged or inverse products, 
+crypto assets, structured products, alternative 
+investments, products that are not registered with 
+the Commission (and are therefore less transparent), 
+products with complex fee structures or return 
+calculations, products based on exotic benchmarks, 
+or products that represent a growth area for retail 
+investment. Examinations may also focus on 
+recommendations: (1) using automated tools or 
+other digital engagement practices; (2) related to 
+opening different account types, such as option, 
+margin and self-directed IRA accounts; and (3) 
+made to certain types of investors, such as older 
+investors and those saving for retirement or college. 
+Examinations may also focus on dual registrants 
+and encompass reviews of firms’ process for 
+identifying and mitigating and eliminating conflicts 
+of interest, account allocation practices (e.g., 
+allocation of investments where an investor has 
+more than one type of account) and account 
+selection practices (e.g., brokerage versus 
+advisory, including when rolling over to an IRA 
+or transferring an existing brokerage account to 
+an advisory account, as well as advice to open 
+wrap fee accounts). Examinations may also assess 
+broker-dealer supervision of sales practices at 
+branch office locations. 
+B.	Form CRS
+The Division’s examinations will review the 
+content of a broker-dealer’s relationship summary, 
+such as how the broker-dealer describes: (1) the 
+relationships and services that it offers to retail 
+customers; (2) its fees and costs; and (3) its conflicts 
+of interest, and whether the broker-dealer discloses 
+any disciplinary history. These examinations will 
+also evaluate whether broker-dealers have met 
+the obligations to file their relationship summary 
+with the Commission and deliver their relationship 
+summary to retail customers. 
+C.	Broker-Dealer Financial 
+Responsibility Rules
+Examinations will continue to focus on broker-
+dealer compliance with the net capital rule and 
+the customer protection rule and related internal 
+processes, procedures, and controls. Areas of 
+review will include broker-dealer accounting 
+practices impacted by recent regulatory changes, 
+as well as the timeliness of financial notifications 
+and other required filings made by the broker-
+dealer. Reviews will also focus on broker-dealers’ 
+
+E X A M I N AT I O N  P R I O R I T I E S :  F I S C A L  Y E A R  2 0 2 5   |   9
+operational resiliency programs, including 
+supervision of third-party or vendor provided 
+services that contribute to the records firms used 
+to prepare their financial reporting information. 
+In addition, examinations will assess broker-dealer 
+credit, market, and liquidity risk management 
+controls to ensure that firms have sufficient 
+liquidity to manage stress events. 
+D.	Broker-Dealer Trading-Related 
+Practices and Services
+A focus on broker-dealer equity and fixed income 
+trading practices remains a Division priority. Areas 
+of review will consider the structure, marketing, 
+fees, and potential conflicts associated with 
+offerings by broker-dealers to retail customers, 
+including bank sweep programs, fully-paid 
+lending programs, and mobile apps/online trading 
+platforms. In addition, examinations will review 
+broker-dealer trading practices associated with 
+trading in pre-IPO companies and the sale of 
+private company shares in secondary markets. The 
+Division will also review broker-dealers’ execution 
+of retail orders. These reviews will include: 
+(1) whether retail orders are marked as “held” or 
+“not held,” and the consistency of the marking 
+with retail instructions; and (2) the pricing and 
+valuation of illiquid or retail-focused instruments 
+such as variable rate demand obligations, other 
+municipal securities, and non-traded REITs.
+Finally, with respect to Regulation SHO, the 
+Division will review whether broker-dealers are 
+appropriately relying on the bona fide market 
+making exception, including whether quoting 
+activity is away from the inside bid/offer. 
+IV.  SELF-REGULATORY 
+ORGANIZATIONS
+A.	National Securities Exchanges
+National securities exchanges provide marketplaces 
+for securities transactions and, under the 
+federal securities laws, serve as self-regulatory 
+organizations responsible for enforcing compliance 
+by their members with applicable rules and laws. 
+As in prior years, the Division will examine these 
+exchanges to assess whether they are meeting 
+their obligations to enforce compliance with the 
+exchanges’ own rules, as well as federal securities 
+laws. Examinations may focus on exchange 
+governance, regulatory programs, and participation 
+in National Market System Plans.
+B.	FINRA
+FINRA oversees approximately 3,400 brokerage 
+firms, 150,000 branch offices, and more than 
+612,000 registered representatives through 
+examinations, enforcement, and surveillance. In 
+addition, FINRA, among other things, promulgates 
+rules that govern its members, provides a forum 
+for securities arbitration and mediation, conducts 
+market regulation and oversight, including by 
+contract, for a majority of national securities 
+exchanges, reviews broker-dealer advertisements, 
+administers the testing and licensing of registered 
+persons, and operates industry utilities, such as 
+trade reporting facilities.
+The Division conducts risk-based oversight 
+examinations of FINRA. It selects major regulatory 
+areas within FINRA to examine through a risk-
+assessment process designed to identify aspects of 
+FINRA’s operations important to the protection of 
+investors and market integrity, including FINRA’s 
+implementation of investor protection initiatives 
+
+10  |   D I V I S I O N  O F  E X A M I N AT I O N S
+such as Regulation Best Interest and Form CRS, 
+and the fair administration of its dispute resolution 
+forum. The Division’s risk-assessment process is 
+informed by: (1) collecting and analyzing extensive 
+information and data; (2) holding regular meetings 
+with key functional areas within FINRA; and 
+(3) reaching out to various stakeholders such as 
+broker-dealers and investor groups. The Division 
+also conducts oversight examinations of FINRA’s 
+examinations of certain broker-dealers and 
+municipal advisors that are FINRA members. 
+Based on the outcomes of these examinations, the 
+Division provides FINRA with detailed recommen­
+dations to improve its programs, risk assessment 
+processes, and future examinations.
+C.	Municipal Securities 
+Rulemaking Board (MSRB)
+MSRB regulates the activities of broker-dealers 
+that buy, sell, and underwrite municipal securities, 
+and municipal advisors. MSRB establishes rules 
+for municipal broker-dealers (including registered 
+municipal securities dealers) and municipal 
+advisors, supports market transparency by making 
+municipal securities trade data and disclosure 
+documents available, and conducts education and 
+outreach regarding the municipal securities market. 
+The Division, along with FINRA and the federal 
+banking regulators, conducts examinations of 
+registrants to assess compliance with MSRB rules, 
+as well as applicable federal securities laws and 
+rules. The Division also applies a risk-assessment 
+process, similar to the one it uses to oversee 
+FINRA, to identify areas to examine at the MSRB.
+V.  CLEARING AGENCIES
+Title VIII of the Dodd-Frank Act requires the 
+Commission to examine, at least once annually, 
+each clearing agency designated as systemically 
+important and for which the Commission serves 
+as the supervisory agency. Pursuant to Section 807 
+of the Dodd-Frank Act, these examinations will 
+focus on clearing agencies’ core risks, processes, 
+and controls and will cover the specific areas 
+required by statute, including the nature of 
+clearing agencies’ operations and assessment of 
+financial and operational risk. Additionally, the 
+Division conducts risk-based examinations of 
+other registered clearing agencies that have not 
+been designated as systemically important. The 
+Division examines the registered clearing agencies 
+for compliance with the Commission’s Standards 
+for Covered Clearing Agencies, which are rules 
+that require covered clearing agencies to have 
+policies and procedures that address, among other 
+things, maintaining sufficient financial resources, 
+protecting against credit risks, managing member 
+defaults, and managing operational and other risks. 
+Examinations of registered clearing agencies include 
+both risk-based examinations and corrective action 
+reviews, and are undertaken to assess: (1) whether 
+the clearing agencies’ respective risk management 
+frameworks comply with the Securities Exchange 
+Act of 1934 (Exchange Act), and serve the needs of 
+their members and the markets they serve; (2) the 
+adequacy and timeliness of their remediation of 
+prior deficiencies, including, for example, the role 
+of senior leadership in the remediation process; and 
+(3) other risk areas identified in collaboration with 
+the Commission’s Division of Trading and Markets 
+(Trading and Markets) and other regulators. In 
+addition, the Division also examines security-based 
+swap data repositories, as well as entities operating 
+pursuant to a Commission order exempting them 
+from the clearing agency registration requirement 
+under Section 17A(b)(1) of the Exchange Act. 
+Areas of examination focus may include risk 
+management of liquidity, margin systems, default 
+
+E X A M I N AT I O N  P R I O R I T I E S :  F I S C A L  Y E A R  2 0 2 5   |   11
+management, links, third-party relationships, and 
+operations, among other things. 
+Finally, the Division consults with the Federal 
+Reserve Board each year on the scope and method­
+ology of the Commission’s Dodd-Frank examina­
+tions, as required by that Act, and routinely 
+consults with Trading and Markets on risks it 
+observes in its supervisory role over clearing 
+agencies. These risks are also incorporated into the 
+risk-based planning of the examinations.
+VI.  OTHER MARKET PARTICIPANTS
+A.	Municipal Advisors
+The Division will continue to examine whether 
+municipal advisors have met their fiduciary duty 
+to municipal entity clients when engaging in 
+municipal advisory activities, such as providing 
+advice or recommendations regarding the pricing 
+or method of sale with respect to the issuance 
+of municipal securities. The Division will also 
+continue to examine whether municipal advisors 
+have complied with MSRB Rule G-42, which 
+establishes the core standards of conduct and duties 
+applicable to non-solicitor municipal advisors, 
+including requirements to disclose conflicts of 
+interest and to document municipal advisory 
+relationships. Finally, the Division will continue 
+to assess whether municipal advisors have made 
+required filings with the Commission and met 
+their professional qualification, recordkeeping, and 
+supervision requirements.
+B.	Transfer Agents
+The Division will continue to examine transfer 
+agent processing of items and transfers, 
+recordkeeping and record retention, safeguarding 
+of funds and securities, and filings with the 
+Commission. Examinations will also focus on 
+transfer agents that use emerging technology to 
+perform their transfer agent functions. 
+C.	Security-Based Swap Dealers (SBSDs)
+For SBSDs that have yet to be examined, 
+the Division expects to continue to focus its 
+examinations on whether SBSDs have implemented 
+policies and procedures related to compliance 
+with security-based swap rules generally, including 
+whether they are meeting their obligations under 
+Regulation SBSR to accurately report security-
+based swap transactions to security-based swap 
+data repositories and, where applicable, whether 
+they are complying with relevant conditions 
+in Commission orders governing substituted 
+compliance. For other SBSDs, the Division may 
+focus on SBSDs’ practices with respect to applicable 
+capital, margin, and segregation requirements and 
+risk management. The Division also expects to 
+assess whether SBSDs have taken corrective action 
+to address issues identified in prior examinations. 
+D.	Security-Based Swap Execution 
+Facilities (SBSEFs)
+On November 2, 2023, the Commission adopted 
+new Regulation SE under the Exchange Act, 
+which implements a set of rules and forms for 
+the registration and regulation of SBSEFs.4 The 
+adoption of Regulation SE eliminated the prior 
+temporary registration exemptions for SBSEFs as of 
+August 12, 2024, at which time SBSEFs needed to 
+apply for registration with the Commission. Subject 
+to the timing of these events and the Commission’s 
+decisions with respect to any submitted applica­
+tions, the Division may begin conducting examina­
+tions of registered SBSEFs in late fiscal year 2025.
+E.	Funding Portals
+The Division will examine whether funding portals 
+are making and preserving: (1) required records, 
+such as records related to investors who purchase, 
+or attempt to purchase, securities through the 
+funding portal; and (2) records related to issuers 
+who offer and sell, or attempt to offer and sell, 
+securities through the funding portal and the 
+control persons of such issuers, among others. In 
+
+12  |   D I V I S I O N  O F  E X A M I N AT I O N S
+addition, the Division will review funding portals’ 
+written policies and procedures to assess if they 
+are reasonably designed to achieve compliance 
+with applicable federal securities laws and rules, 
+such as the restrictions that prohibit funding 
+portals from engaging in the following activities: 
+(1) offering investment advice or recommendations; 
+(2) soliciting transactions in the securities displayed 
+on the funding portal’s platform; (3) compensating 
+persons for such solicitation or based on the sale 
+of securities displayed on the funding portal’s 
+platform; and (4) holding, managing, possessing, or 
+handling investor funds or securities. 
+VII.  RISK AREAS IMPACTING VARIOUS 
+MARKET PARTICIPANTS 
+A.	Information Security and 
+Operational Resiliency 
+1.	 CYBERSECURITY
+The Division will continue to review registrant 
+practices to prevent interruptions to mission-
+critical services and to protect investor 
+information, records, and assets. Operational 
+disruption risks remain elevated due to the 
+proliferation of cybersecurity attacks, firms’ 
+dispersed operations, weather-related events, and 
+geopolitical concerns. As part of its examinations 
+in this area, the Division will examine registrants’ 
+procedures and practices to assess whether they 
+are reasonably managing information security and 
+operational risks. 
+A perennial examination priority, the Division’s 
+focus on cybersecurity practices by registrants 
+remains vital to ensure the safeguarding of 
+customer records and information, as applicable. 
+Particular attention will be on firms’ policies 
+and procedures, governance practices, data loss 
+prevention, access controls, account management, 
+and responses to cyber-related incidents, 
+including those related to ransomware attacks. 
+The Division will also review alternative trading 
+systems’ safeguards to protect confidential 
+trading information. 
+With respect to third-party products and services 
+in particular, the Division will continue to consider 
+cybersecurity risks and resiliency goals associated 
+with third-party products, sub-contractors, 
+services, and any information technology (IT) 
+resources used by the business without the IT 
+department’s approval, knowledge or oversight, 
+or non-supported infrastructure. The focus will 
+include assessments of how registrants identify and 
+address these risks to essential business operations. 
+2.	 REGULATION S-ID AND 
+REGULATION S-P
+The Division will assess registrant compliance 
+with Regulations S-ID and S-P, as applicable. 
+Examinations will focus on firms’ policies and 
+procedures, internal controls, oversight of third-
+party vendors, and governance practices. In 
+addition, the Division will focus on firms’ policies 
+and procedures as they pertain to safeguarding 
+customer records and information at firms 
+providing electronic investment services, including: 
+§ Identification and detection to prevent and 
+protect against identity theft during customer 
+account takeovers and fraudulent transfers.
+§ Firms’ practices to prevent account intrusions 
+and safeguard customer records and 
+information, including personally identifiable 
+information, especially as it pertains to firms 
+with multiple branch offices.
+
+E X A M I N AT I O N  P R I O R I T I E S :  F I S C A L  Y E A R  2 0 2 5   |   13
+§ Firm training on identity theft prevention 
+program and whether their policies and 
+procedures are reasonably designed to 
+protect customer records and information. 
+Examinations will also assess a firm’s efforts to 
+address operational risk, including technology 
+risks, as operational failures may impact a 
+firm’s ability to safeguard customer records and 
+information. 
+In preparation for the compliance date of the 
+Commission’s amendments to Regulation S-P,5 the 
+Division will engage with firms during examina­
+tions about their progress in preparing to establish 
+incident response programs reasonably designed to 
+detect, respond to, and recover from unauthorized 
+access to or use of customer information.
+3.	 SHORTENING OF THE 
+SETTLEMENT CYCLE6
+The Division will evaluate broker-dealer 
+compliance with Rule 15c6-1 under the Exchange 
+Act, which reduced the standard settlement cycle 
+for most securities to the day after trade date 
+(T+1), and with Rule 15c6-2 under the Exchange 
+Act, which requires broker-dealers engaging in the 
+allocation, confirmation, or affirmation process 
+to have written agreements or written procedures 
+reasonably designed to ensure completion of the 
+process as soon as practicable and no later than the 
+end of day on trade date (T+0). 
+The Division will evaluate advisers’ compliance 
+with amended books and records requirements 
+associated with T+1. The Division will also 
+consider advisers’ operational changes, or impacts 
+related to adviser facilitation of institutional 
+transactions that are involved in the allocation, 
+confirmation, or affirmation processes subject to 
+Rule 15c6-2(a).
+In addition, examinations will assess registrant 
+technology changes associated with shortening 
+of the settlement cycle and evaluate any areas 
+that need further attention and resources, such as 
+specific products or counterparties that are routinely 
+not settling within the required time frames. 
+B.	Emerging Financial Technologies
+The Division remains focused on registrants’ use 
+of certain services, such as automated investment 
+tools, AI, and trading algorithms or platforms, 
+and the risks associated with the use of emerging 
+technologies and alternative sources of data. As 
+such, the Division will, in particular, examine 
+firms that employ certain digital engagement 
+practices, such as digital investment advisory 
+services, recommendations, and related tools 
+and methods. When conducting these reviews, 
+assessments generally will include whether: 
+(1) representations are fair and accurate; 
+(2) operations and controls in place are consistent 
+with disclosures made to investors; (3) algorithms 
+produce advice or recommendations consistent 
+with investors’ investment profiles or stated 
+strategies; and (4) controls to confirm that advice 
+or recommendations resulting from digital 
+engagement practices are consistent with regulatory 
+obligations to investors, including older investors. 
+With respect to AI, the Division will review 
+registrant representations regarding their AI 
+capabilities or AI use for accuracy. In addition, 
+the Division will assess whether firms have 
+implemented adequate policies and procedures 
+to monitor and/or supervise their use of AI, 
+including for tasks related to fraud prevention 
+and detection, back-office operations, anti-money 
+laundering (AML), and trading functions, as 
+applicable. Reviews will also consider firm 
+integration of regulatory technology to automate 
+
+14  |   D I V I S I O N  O F  E X A M I N AT I O N S
+internal processes and optimize efficiencies. In 
+addition, the Division will examine how registrants 
+protect against loss or misuse of client records and 
+information that may occur from the use of third-
+party AI models and tools.
+C.	Crypto Assets
+The Division continues to observe the proliferation 
+of investments involving crypto assets and their 
+associated products and services. Given the 
+volatility and activity involving the crypto asset 
+markets, the Division will continue to monitor 
+and, when appropriate, conduct examinations of 
+registrants offering crypto asset-related services. 
+Examinations of registrants will focus on the offer, 
+sale, recommendation, advice, trading, and other 
+activities involving crypto assets that are offered 
+and sold as securities or related products, such as 
+spot bitcoin or ether exchange-traded products. 
+In particular, these examinations will review 
+whether the registrants: (1) meet and follow 
+their respective standards of conduct when 
+recommending or advising customers and clients 
+regarding crypto assets with a focus on an initial 
+and ongoing understanding of the products 
+that have a particular focus on scenarios where 
+investors are retail-based (including older investors) 
+and investments involving retirement assets; and 
+(2) routinely review, update, and enhance their 
+compliance practices (including crypto asset wallet 
+reviews, custody practices, Bank Secrecy Act (BSA) 
+compliance reviews, and valuation procedures), 
+risk disclosures, and operational resiliency practices 
+(i.e., data integrity and business continuity plans), 
+if required. 
+The Division will assess registrant practices to 
+address the technological risks associated with 
+the use of blockchain and distributed ledger 
+technology, including risks pertaining to the 
+security of crypto assets.
+D.	Regulation Systems Compliance 
+and Integrity (SCI)
+SCI entities must establish, maintain, and enforce 
+written policies and procedures reasonably 
+designed to ensure that their systems’ capacity, 
+integrity, resiliency, availability, and security is 
+adequate to maintain their operational capability 
+and promote the maintenance of fair and orderly 
+markets. As part of the Division’s examination of 
+SCI entities, reviews will focus on: 
+§ The policies and procedures regarding the 
+operational, business continuity planning and 
+testing practices of SCI entities.
+§ The effectiveness of incident response plans. In 
+particular, the Division will evaluate policies 
+and procedures regarding the decision to 
+disconnect or reconnect from another registrant 
+or third-party that is experiencing a cyber 
+event, and the decision-making process to 
+disconnect or reconnect to registrants or third 
+parties when the SCI entity is experiencing a 
+cyber event. This would include all forms of 
+inbound and outbound connectivity, such as 
+trade processing, data feeds, remote processing, 
+post trade reporting, market surveillance, and 
+remote access.
+§ The policies and procedures pertaining to the 
+security operations management tools employed 
+by SCI entities to ensure that their SCI systems 
+and indirect SCI systems have adequate levels 
+of security and their effectiveness to meet the 
+security goals of the organization.
+
+E X A M I N AT I O N  P R I O R I T I E S :  F I S C A L  Y E A R  2 0 2 5   |   15
+E. 	AML
+The BSA requires certain financial institutions, 
+including broker-dealers and certain RICs, to 
+establish AML programs that are tailored to 
+address the risks associated with the firm’s location, 
+size, and activities, including the customers they 
+serve, the types of products and services offered, 
+and how those products and services are offered. 
+These programs must, among other things, 
+include policies, procedures, and internal controls 
+reasonably designed to achieve compliance with 
+the BSA and its implementing rules; independent 
+testing; and risk-based procedures to perform 
+certain customer due diligence, which includes 
+identifying and verifying the identity of customers 
+and conducting ongoing monitoring to identify and 
+report suspicious transactions. Where appropriate, 
+certain financial institutions must also file Suspi­
+cious Activity Reports (SARs) with the Financial 
+Crimes Enforcement Network. SARs can be used 
+to identify and combat market manipulation, 
+insider trading, Ponzi schemes, corruption, money 
+laundering, terrorist financing, and a variety 
+of other illicit activities potentially violative of 
+securities and other laws and regulations. 
+The Division will continue to focus on AML 
+programs and review whether broker-dealers 
+and certain RICs are: (1) appropriately tailoring 
+their AML program to their business model 
+and associated AML risks; (2) conducting 
+independent testing; (3) establishing an adequate 
+customer identification program, including for 
+beneficial owners of legal entity customers; 
+and (4) meeting their SAR filing obligations. 
+Examinations of certain RICs will also review 
+policies and procedures for oversight of 
+applicable financial intermediaries. 
+Lastly, the Division will review whether 
+broker-dealers and advisers are monitoring the 
+Department of Treasury’s Office of Foreign Assets 
+Control sanctions and ensuring compliance with 
+such sanctions.
+
+16  |   D I V I S I O N  O F  E X A M I N AT I O N S
+Endnotes
+1	
+The Commission established in March 1995, the 
+Office of Compliance Inspections and Examinations, 
+which on December 17, 2020, was renamed the 
+Division of Examinations. 
+2	
+SEC, Form PF; Reporting Requirements for All Filers 
+and Large Hedge Fund Advisers, Advisers Act Rel. 
+No. 6546 (Feb. 8, 2024) (Adopting amendments to 
+Form PF with a compliance date in March 2025 to, 
+among other things, enhance reporting by private 
+fund advisers regarding private funds’ operations and 
+strategies, improve data quality and comparability, 
+assist in identifying trends, and improve the ability 
+of the Financial Stability Oversight Council to 
+monitor and assess systemic risk); Form PF Reporting 
+Requirements for Large Liquidity Fund Advisers, 
+Advisers Act Rel. No. 6344 (Jul. 12, 2023) (Adopting 
+amendments to Form PF concerning the information 
+large liquidity fund advisers must report for the 
+liquidity funds they advise); and Form PF; Event 
+Reporting for Large Hedge Fund Advisers and Private 
+Equity Fund Advisers; Requirements for Large Private 
+Equity Fund Adviser Reporting, Advisers Act Rel. No. 
+6297 (May 3, 2023) (Adopting amendments to Form 
+PF to require event reporting upon the occurrence 
+of key events, to require large private equity fund 
+advisers to provide additional information to the SEC 
+about the private equity funds they advise).
+3	
+SEC, Investment Adviser Marketing, Advisers Act Rel. 
+No. 5653 (Dec. 22, 2020) (Adopting amendments to 
+create a single rule that replaces the prior advertising 
+and cash solicitation rules and modernizes rules 
+that govern investment adviser advertisements and 
+payments to solicitors).
+4	
+SEC, Security-Based Swap Execution and Registration 
+of Security-Based Swap Execution Facilities, Exchange 
+Act Rel. No. 98845 (Nov. 2, 2023). 
+5	
+SEC, Regulation S-P: Privacy of Consumer Financial 
+Information and Safeguarding Customer Information, 
+Advisers Act Rel. No. 6604 (May 16, 2024) (Adopting 
+amendments to Regulation S-P that apply to broker-
+dealers, funding portals, investment companies, 
+SEC-registered investment advisers, and transfer 
+agents registered with the SEC or another appropriate 
+regulatory agency (collectively, “covered institutions”) 
+and are designed to modernize and enhance the 
+protection of consumer financial information by: (1) 
+requiring covered institutions to develop, implement, 
+and maintain written policies and procedures for an 
+incident response program that is reasonably designed 
+to detect, respond to, and recover from unauthorized 
+access to or use of customer information; (2) requiring 
+that the response program include procedures for 
+covered institutions to provide timely notification 
+to affected individuals whose sensitive customer 
+information was, or is reasonably likely to have 
+been, accessed or used without authorization; and 
+(3) broadening the scope of information covered by 
+Regulation S-P’s requirements).
+6	
+Division, Risk Alert: Shortening the Securities 
+Transaction Settlement Cycle (Mar. 27, 2024) (To 
+assess registrants’ adaptiveness to the shortened 
+settlement cycle, EXAMS intends to continue engaging 
+with registrants through examinations and outreach. 
+The Risk Alert provides registrants with additional 
+information about the scope and content of the 
+examinations and outreach). 
+
+
+U.S. SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+
